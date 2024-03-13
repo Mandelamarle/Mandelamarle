@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mandelamarle Ui/Ux Designer 
+👋 Hi, I’m @Mandelamarle Ui/Ux Designer 
 Currently learing Python. for Web Development including HTML, CSS and JavaScript.
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mandelamarle Ui/Ux Designer 
-Currently learing Python. for Web Development including HTML, CSS and JavaScript..
+Currently learing Python. for Web Development including HTML, CSS and JavaScript...
 
 <!---
 Mandelamarle/Mandelamarle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

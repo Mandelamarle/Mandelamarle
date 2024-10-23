@@ -1,4 +1,4 @@
-
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=All+About+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Defi+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
 <h1 align="center">Hi 👋, I'm Mandela Koja Nasona Mogga</h1>
 <h3 align="center">A passionate frontend developer | Ui / Ux Designer from South Sudan</h3>
 <img src= 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A4MDNnZHZnZ2IxMTl4bWU0MXF6aTB6NHVocmVkN244cWZnMGc1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACzsN9dhQuOZ6RYXcM/giphy.webp'  width= 400px>
